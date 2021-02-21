@@ -1,5 +1,3 @@
-# tg_userbot_maker
-
 <h1>Telegram account creator or controller script</h1>
 
 Can be used create a bulk account in telegram <br>
