@@ -1,0 +1,9 @@
+[submodule "docs"]
+	path = docs
+	url = git@github.com:danog/MadelineProtoDocs
+[submodule "examples/magnaluna"]
+	path = examples/magnaluna
+	url = git@github.com:danog/magnaluna
+[submodule "examples/pipesbot"]
+	path = examples/pipesbot
+	url = git@github.com:danog/pipesbot
