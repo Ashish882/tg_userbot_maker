@@ -1,7 +1,7 @@
 <?php 
 
 
-$Connectingdb = new PDO('mysql:host = localhost;dbname=remarg8r_virtual','remarg8r_admin','HAcKZ882@$');
+$Connectingdb = new PDO('mysql:host = localhost;dbname=remarg8r_virtual','remarg8','test');
 
 function wh_log($log_msg)
 {
